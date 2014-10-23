@@ -1,0 +1,22 @@
+{
+  "name": "extended-webdriver",
+  "version": "0.0.1",
+  "description": "WebDriverJS with custom extensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andruandru/extended-webdriver.git"
+  },
+  "author": "Andrew Ordiales <andrew@voyagerinnovation.com>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/andruandru/extended-webdriver/issues"
+  },
+  "homepage": "https://github.com/andruandru/extended-webdriver",
+  "dependencies": {
+    "selenium-webdriver": "~2.43.5"
+  }
+}
