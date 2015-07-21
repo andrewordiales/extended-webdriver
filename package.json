@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/andruandru/extended-webdriver",
   "dependencies": {
-    "selenium-webdriver": "~2.43.5"
+    "selenium-webdriver": "*"
   }
 }
